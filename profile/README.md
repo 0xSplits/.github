@@ -5,8 +5,9 @@ Financial infrastructure for onchain builders.
 We build apps, contracts, and developer tools that make it easy for builders to manage onchain treasuries, revenues, and expenses. Built on open source contracts that run for free, forever.
 
 - Onchain banking: [teams.splits.org](https://teams.splits.org)
-- Contract explorer: [app.splits.org](https://app.splits.org)
-- Docs site: [docs.splits.org](https://docs.splits.org)
+- Onchain banking guidebook: [notion](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
+- Payment lego explorer: [app.splits.org](https://app.splits.org)
+- Payment lego docs: [docs.splits.org](https://docs.splits.org)
 - Company blog: [splits.org/blog](https://splits.org/blog)
 
 ---
