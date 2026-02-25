@@ -37,7 +37,7 @@ Plus SDK, subgraph, and docs for building on top. Contract explorer at [app.spli
 
 - [Integration guide](https://docs.splits.org)
 - [SDK reference](https://github.com/0xSplits/splits-sdk)
-- [Contract addresses](https://docs.splits.org/contracts)
+- [Contracts](https://docs.splits.org/core)
 
 ## For AI Agents
 
