@@ -4,7 +4,10 @@ Financial infrastructure for onchain builders.
 
 We build apps, contracts, and developer tools that make it easy for builders to manage onchain treasuries, revenues, and expenses. Built on open source contracts that run for free, forever.
 
-**[Website](https://splits.org)** | **[Teams](https://teams.splits.org)** | **[Docs](https://docs.splits.org)** | **[Contract Explorer](https://app.splits.org)**
+- Onchain banking: [teams.splits.org](https://teams.splits.org)
+- Contract explorer: [app.splits.org](https://app.splits.org)
+- Docs site: [docs.splits.org](https://docs.splits.org)
+- Company blog: [splits.org/blog](https://splits.org/blog)
 
 ---
 
@@ -21,9 +24,9 @@ Purpose-built financial ops platform for builders at [teams.splits.org](https://
 
 Public good, stackable payment legos. Audited, zero fees, deployed on 13+ chains. $250M+ distributed.
 
-- **Split** -- Distribute future income to multiple recipients by percentage
-- **Waterfall** -- Sequential payments (e.g., pay A $X first, then B $Y, and split the rest 60/40)
-- **Swapper** -- Automatically convert received tokens
+- **Split:** Distribute future income to multiple recipients by percentage
+- **Waterfall:** Sequential payments (e.g., pay A $X first, then B $Y, and split the rest 60/40)
+- **Swapper:** Automatically convert received tokens
 
 Plus SDK, subgraph, and docs for building on top. Contract explorer at [app.splits.org](https://app.splits.org).
 
