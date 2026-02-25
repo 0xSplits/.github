@@ -1,0 +1,77 @@
+# 0xSplits
+
+> Onchain financial operations for builders. Open source payment contracts that run for free, forever -- plus a full-stack financial operations platform.
+
+- Website: https://splits.org
+- Docs: https://docs.splits.org
+- Explorer: https://app.splits.org
+- Teams Platform: https://teams.splits.org
+- GitHub: https://github.com/0xSplits
+
+## Open Source Contracts & Tools
+
+Public good payment primitives. Audited, zero fees, deployed on 13+ chains, $250M+ distributed.
+
+- Split: Distribute funds to recipients by percentage. Supports pull (gas-efficient) and push (direct) modes.
+- Waterfall: Sequential payments -- priority tranches filled in order.
+- Swapper: Automatic token conversion on receipt.
+
+### Repos
+
+#### splits-contracts-monorepo
+- Purpose: v2 core splitting contracts (Split, Waterfall, Swapper)
+- Language: Solidity 0.8.23
+- Build: Foundry + Turborepo + pnpm
+- Key files: AGENTS.md, CLAUDE.md, packages/splits-v2/, packages/smart-vaults/
+- Docs: packages/splits-v2/docs/contracts.md, packages/splits-v2/docs/integration-patterns.md
+- Note: Primary contracts repo. Start here for contract work.
+
+#### splits-contracts
+- Purpose: v1 core splitting contracts (SplitMain)
+- Language: Solidity
+- Note: Legacy. v2 in splits-contracts-monorepo is the active version.
+
+#### splits-waterfall
+- Purpose: Waterfall payment contracts (sequential distribution)
+- Language: Solidity
+- Build: Foundry
+
+#### splits-sdk
+- Purpose: JS/TS SDK and React hooks for interacting with Splits contracts
+- Language: TypeScript
+- Build: pnpm workspaces
+- Packages: @0xsplits/splits-sdk, @0xsplits/splits-sdk-react
+
+#### docs
+- Purpose: Documentation site (docs.splits.org)
+- Language: TypeScript
+- URL: https://docs.splits.org
+
+## Onchain Financial Ops Platform
+
+Purpose-built operational platform for builders at teams.splits.org. Smart Vaults, treasury management, expenses. Works for solo builders and teams alike.
+
+### Repos
+
+#### splits-contracts-monorepo
+- Purpose: ERC-4337 Smart Vaults (multi-sig smart accounts with passkey support)
+- Language: Solidity 0.8.23
+- Note: Smart Vaults are in the same monorepo as the open source contracts.
+
+#### splits-connect
+- Purpose: Browser extension for Splits
+- Language: TypeScript
+
+## Architecture Notes
+
+- SplitsWarehouse (ERC6909) is the central token accounting layer in v2.
+- Token IDs in warehouse = uint256(uint160(tokenAddress)).
+- Split recipients must be sorted by address (ascending).
+- Native ETH is wrapped as WETH internally by the warehouse.
+- Smart Vaults use ERC-4337 v0.7 EntryPoint (0x0000000071727De22E5E9d8BAf0edAc6f37da032).
+
+## Agent Entry Points
+
+- Org-level: https://github.com/0xSplits/.github/blob/main/AGENTS.md
+- Contracts: https://github.com/0xSplits/splits-contracts-monorepo/blob/main/AGENTS.md
+- Contracts (Claude-specific): https://github.com/0xSplits/splits-contracts-monorepo/blob/main/CLAUDE.md
