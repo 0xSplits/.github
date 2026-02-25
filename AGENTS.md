@@ -1,6 +1,6 @@
-# 0xSplits -- Agent Guide
+# Splits -- Agent Guide
 
-## What is 0xSplits?
+## What is Splits?
 
 Onchain financial operations for builders. Two pillars:
 
