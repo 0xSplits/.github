@@ -27,9 +27,10 @@ Plus SDK, subgraph, and docs for building on top. Contract explorer at [app.spli
 
 | Repo | Description | Language |
 |------|-------------|----------|
-| [splits-contracts-monorepo](https://github.com/0xSplits/splits-contracts-monorepo) | v2 core contracts (Split, Waterfall, Swapper) | Solidity |
+| [splits-contracts-monorepo](https://github.com/0xSplits/splits-contracts-monorepo) | v2 core contracts (Split, Waterfall) | Solidity |
 | [splits-contracts](https://github.com/0xSplits/splits-contracts) | v1 core contracts (legacy) | Solidity |
 | [splits-waterfall](https://github.com/0xSplits/splits-waterfall) | Waterfall payment contracts | Solidity |
+| [splits-swapper](https://github.com/0xSplits/splits-swapper) | Swapper payment contracts | Solidity |
 | [splits-sdk](https://github.com/0xSplits/splits-sdk) | JS/TS SDK + React hooks | TypeScript |
 | [docs](https://github.com/0xSplits/docs) | Documentation site source | TypeScript |
 

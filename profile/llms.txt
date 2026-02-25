@@ -34,7 +34,7 @@ Public good payment primitives. Audited, zero fees, deployed on 13+ chains, $250
 ### Repos
 
 #### splits-contracts-monorepo
-- Purpose: v2 core splitting contracts (Split, Waterfall, Swapper)
+- Purpose: v2 core splitting contracts (Split, Waterfall)
 - Language: Solidity 0.8.23
 - Build: Foundry + Turborepo + pnpm
 - Key files: AGENTS.md, CLAUDE.md, packages/splits-v2/, packages/smart-vaults/
@@ -48,6 +48,11 @@ Public good payment primitives. Audited, zero fees, deployed on 13+ chains, $250
 
 #### splits-waterfall
 - Purpose: Waterfall payment contracts (sequential distribution)
+- Language: Solidity
+- Build: Foundry
+
+#### splits-swapper
+- Purpose: Swapper contracts (automatic token conversion)
 - Language: Solidity
 - Build: Foundry
 

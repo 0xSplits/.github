@@ -21,6 +21,7 @@ Start with the repo that matches your task:
 | `splits-contracts` | Working with v1 contracts (legacy -- prefer v2) |
 | `splits-sdk` | Building JS/TS integrations, React UIs, or querying splits data |
 | `splits-waterfall` | Waterfall-specific contract work |
+| `splits-swapper` | Swapper-specific contract work |
 | `docs` | Documentation site at docs.splits.org |
 | `splits-connect` | Minimal browser extension for smart accounts (4337) |
 
