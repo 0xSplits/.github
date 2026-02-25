@@ -1,18 +1,18 @@
-# 0xSplits
+# Splits
 
 Onchain financial infrastructure for builders. A full-stack financial operations platform -- built on open source payment contracts that run for free, forever.
 
-**[Website](https://splits.org)** | **[Teams](https://teams.splits.org)** | **[Docs](https://docs.splits.org)** | **[Explorer](https://app.splits.org)**
+**[Website](https://splits.org)** | **[Teams](https://teams.splits.org)** | **[Docs](https://docs.splits.org)** | **[Contract Explorer](https://app.splits.org)**
 
 ---
 
 ## Onchain Financial Ops Platform
 
-Purpose-built operational platform for builders at [teams.splits.org](https://teams.splits.org). Smart Vaults, treasury management, expenses, and more -- whether you're a solo builder working with agents or a full team.
+Purpose-built operational platform for builders at [teams.splits.org](https://teams.splits.org). Crosschain, multi-signature accounts, treasury management, expenses, and more -- whether you're a solo builder working with agents or a full team.
 
 | Repo | Description | Language |
 |------|-------------|----------|
-| [splits-contracts-monorepo](https://github.com/0xSplits/splits-contracts-monorepo) | ERC-4337 Smart Vaults | Solidity |
+| [splits-contracts-monorepo](https://github.com/0xSplits/splits-contracts-monorepo) | Crosschain, multi-signature accounts (ERC-4337) | Solidity |
 | [splits-connect](https://github.com/0xSplits/splits-connect) | Browser extension | TypeScript |
 
 ## Open Source Contracts & Tools
@@ -23,7 +23,7 @@ Public good payment primitives. Audited, zero fees, deployed on 13+ chains. $250
 - **Waterfall** -- Sequential payments (e.g., pay A first, then B gets the rest)
 - **Swapper** -- Automatically convert received tokens
 
-Plus SDK, subgraph, and docs for building on top. Explorer at [app.splits.org](https://app.splits.org).
+Plus SDK, subgraph, and docs for building on top. Contract explorer at [app.splits.org](https://app.splits.org).
 
 | Repo | Description | Language |
 |------|-------------|----------|
