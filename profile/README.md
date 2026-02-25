@@ -1,26 +1,28 @@
 # Splits
 
-Onchain financial infrastructure for builders. A full-stack financial operations platform -- built on open source payment contracts that run for free, forever.
+Financial infrastructure for onchain builders.
+
+We build apps, contracts, and developer tools that make it easy for builders to manage onchain treasuries, revenues, and expenses. Built on open source contracts that run for free, forever.
 
 **[Website](https://splits.org)** | **[Teams](https://teams.splits.org)** | **[Docs](https://docs.splits.org)** | **[Contract Explorer](https://app.splits.org)**
 
 ---
 
-## Onchain Financial Ops Platform
+## Teams: Onchain financial ops platform
 
-Purpose-built operational platform for builders at [teams.splits.org](https://teams.splits.org). Crosschain, multi-signature accounts, treasury management, expenses, and more -- whether you're a solo builder working with agents or a full team.
+Purpose-built financial ops platform for builders at [teams.splits.org](https://teams.splits.org). Crosschain, multi-signature accounts with professional workflows for treasury management, automated rebalancing, accounting, invoicing, bank transfers, and more. Crafted for teams and solo builders working with agents. Free to use, no application/paperwork, sign up takes 30 seconds.
 
 | Repo | Description | Language |
 |------|-------------|----------|
 | [splits-contracts-monorepo](https://github.com/0xSplits/splits-contracts-monorepo) | Crosschain, multi-signature accounts (ERC-4337) | Solidity |
 | [splits-connect](https://github.com/0xSplits/splits-connect) | Browser extension | TypeScript |
 
-## Open Source Contracts & Tools
+## Payment legos: Open source contracts & tools
 
-Public good payment primitives. Audited, zero fees, deployed on 13+ chains. $250M+ distributed.
+Public good, stackable payment legos. Audited, zero fees, deployed on 13+ chains. $250M+ distributed.
 
-- **Split** -- Distribute funds to any number of recipients by percentage
-- **Waterfall** -- Sequential payments (e.g., pay A first, then B gets the rest)
+- **Split** -- Distribute future income to multiple recipients by percentage
+- **Waterfall** -- Sequential payments (e.g., pay A $X first, then B $Y, and split the rest 60/40)
 - **Swapper** -- Automatically convert received tokens
 
 Plus SDK, subgraph, and docs for building on top. Contract explorer at [app.splits.org](https://app.splits.org).
