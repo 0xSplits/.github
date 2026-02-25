@@ -34,12 +34,12 @@ Public good payment primitives. Audited, zero fees, deployed on 13+ chains, $250
 ### Repos
 
 #### splits-contracts-monorepo
-- Purpose: v2 core splitting contracts (Split, Waterfall)
+- Purpose: v2 Split contracts + smart accounts (ERC-4337)
 - Language: Solidity 0.8.23
 - Build: Foundry + Turborepo + pnpm
 - Key files: AGENTS.md, CLAUDE.md, packages/splits-v2/, packages/smart-vaults/
 - Docs: packages/splits-v2/docs/contracts.md, packages/splits-v2/docs/integration-patterns.md
-- Note: Primary contracts repo. Start here for contract work.
+- Note: Primary contracts repo. Contains splits-v2 and smart-vaults packages.
 
 #### splits-contracts
 - Purpose: v1 core splitting contracts (SplitMain)
