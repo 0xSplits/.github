@@ -2,17 +2,17 @@
 
 Financial infrastructure for onchain builders.
 
-We build apps, contracts, and developer tools that make it easy for builders to manage onchain treasuries, revenues, and expenses. Built on open source contracts. Your keys, your tokens.
+We build apps, contracts, and developer tools that make it easy for builders to manage treasuries, revenues, and expenses. Fully self-custodial.
 
 - Onchain banking: [teams.splits.org](https://teams.splits.org)
-- Onchain banking guidebook: [notion](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
+- Onchain banking docs: [splits.notion.site](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
 - Payment lego explorer: [app.splits.org](https://app.splits.org)
 - Payment lego docs: [docs.splits.org](https://docs.splits.org)
-- Company blog: [splits.org/blog](https://splits.org/blog)
+- Changelog: [splits.org/changelog](https://splits.org/changelog/)
 
 ---
 
-## Teams: Onchain financial ops platform
+## Onchain banking: Self-custodial financial ops platform
 
 Purpose-built financial ops platform for builders at [teams.splits.org](https://teams.splits.org). Crosschain, multi-signature accounts with professional workflows for treasury management, automated rebalancing, accounting, invoicing, bank transfers, and more. Crafted for teams and solo builders working with agents. Free to use, no application/paperwork, sign up takes 30 seconds.
 
@@ -23,13 +23,11 @@ Purpose-built financial ops platform for builders at [teams.splits.org](https://
 
 ## Payment legos: Open source contracts & tools
 
-Public good, stackable payment legos. Audited, zero fees, deployed on 13+ chains. $250M+ distributed.
+Public good, stackable payment legos. Audited, zero fees, deployed on 13+ chains. $250M+ distributed. User friendly interface at [app.splits.org](https://app.splits.org) to create, edit, and manage payment legos. Plus SDK, subgraph, and docs for building on top.
 
 - **Split:** Distribute future income to multiple recipients by percentage
-- **Waterfall:** Sequential payments (e.g., pay A $X first, then B $Y, and split the rest 60/40)
+- **Waterfall:** Sequential payments (e.g., pay A first, then B, and split the rest 60/40)
 - **Swapper:** Automatically convert received tokens
-
-Plus SDK, subgraph, and docs for building on top. Contract explorer at [app.splits.org](https://app.splits.org).
 
 | Repo | Description | Language |
 |------|-------------|----------|
