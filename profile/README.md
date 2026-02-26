@@ -18,7 +18,7 @@ Purpose-built financial ops platform for builders at [teams.splits.org](https://
 
 | Repo | Description | Language |
 |------|-------------|----------|
-| [splits-contracts-monorepo](https://github.com/0xSplits/splits-contracts-monorepo) | Crosschain, multi-signature accounts (ERC-4337) | Solidity |
+| [splits-smart-vaults](https://github.com/0xSplits/splits-contracts-monorepo/tree/main/packages/smart-vaults) | Crosschain, multi-signature accounts (ERC-4337) | Solidity |
 | [splits-connect](https://github.com/0xSplits/splits-connect) | Browser extension | TypeScript |
 
 ## Payment legos: Open source contracts & tools
@@ -33,7 +33,7 @@ Plus SDK, subgraph, and docs for building on top. Contract explorer at [app.spli
 
 | Repo | Description | Language |
 |------|-------------|----------|
-| [splits-contracts-monorepo](https://github.com/0xSplits/splits-contracts-monorepo) | v2 Split contracts + smart accounts | Solidity |
+| [splits-v2](https://github.com/0xSplits/splits-contracts-monorepo/tree/main/packages/splits-v2) | v2 Split contracts | Solidity |
 | [splits-contracts](https://github.com/0xSplits/splits-contracts) | v1 core contracts (legacy) | Solidity |
 | [splits-waterfall](https://github.com/0xSplits/splits-waterfall) | Waterfall payment contracts | Solidity |
 | [splits-swapper](https://github.com/0xSplits/splits-swapper) | Swapper payment contracts | Solidity |
