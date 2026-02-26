@@ -2,7 +2,7 @@
 
 Financial infrastructure for onchain builders.
 
-We build apps, contracts, and developer tools that make it easy for builders to manage onchain treasuries, revenues, and expenses. Built on open source contracts that run for free, forever.
+We build apps, contracts, and developer tools that make it easy for builders to manage onchain treasuries, revenues, and expenses. Built on open source contracts. Your keys, your tokens.
 
 - Onchain banking: [teams.splits.org](https://teams.splits.org)
 - Onchain banking guidebook: [notion](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
