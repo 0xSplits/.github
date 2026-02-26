@@ -12,6 +12,13 @@
 
 Purpose-built operational platform for builders at teams.splits.org. Crosschain, multi-signature accounts, treasury management, expenses. Works for solo builders and teams alike.
 
+### Networks
+
+- full-support: Ethereum, Base, Optimism, Arbitrum, Celo, World Chain
+  - Capabilities: native smart accounts (ERC-4337), full treasury management, all platform features
+- partial-support: 70+ EVM networks via relay.link (https://relay.link)
+  - Capabilities: send assets to these networks, bridge funds back; no native smart account on chain
+
 ### Repos
 
 #### splits-contracts-monorepo
