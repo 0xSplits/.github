@@ -11,6 +11,10 @@ Onchain financial operations for builders. Two pillars:
 
 **Onchain Financial Ops Platform** -- Purpose-built operational platform for builders at [teams.splits.org](https://teams.splits.org). Multi-chain, passkey-based, multi-signature smart accounts (ERC-4337), treasury management, expenses, accounting, bank transfers, invoicing. Works for solo builders and teams alike.
 
+**Networks:**
+- Full support (native smart accounts, all platform features): Ethereum, Base, Optimism, Arbitrum, Celo, World Chain
+- Partial support (send/receive assets via bridging): 70+ EVM networks powered by relay.link (see https://relay.link for full chain list)
+
 ## Repo Map
 
 Start with the repo that matches your task:
