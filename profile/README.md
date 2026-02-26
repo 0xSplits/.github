@@ -36,6 +36,7 @@ Public good, stackable payment legos. Audited, zero fees, deployed on 13+ chains
 | [splits-waterfall](https://github.com/0xSplits/splits-waterfall) | Waterfall payment contracts | Solidity |
 | [splits-swapper](https://github.com/0xSplits/splits-swapper) | Swapper payment contracts | Solidity |
 | [splits-sdk](https://github.com/0xSplits/splits-sdk) | JS/TS SDK + React hooks | TypeScript |
+| [splits-lite](https://github.com/0xSplits/splits-lite) | Minimal webapp for Split contracts | TypeScript |
 | [docs](https://github.com/0xSplits/docs) | Documentation site source | TypeScript |
 
 ## Quick Links
