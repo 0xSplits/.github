@@ -1,12 +1,4 @@
-<pre>
-  ____        _ _ _       
- / ___| _ __ | (_) |_ ___ 
- \___ \| '_ \| | | __/ __|
-  ___) | |_) | | | |_\__ \
- |____/| .__/|_|_|\__|___/
-       |_|                 
-</pre>
-
+# Splits
 
 Financial infrastructure for onchain builders.
 
