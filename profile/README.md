@@ -17,8 +17,8 @@ We build apps, contracts, and developer tools that make it easy for builders to 
 Purpose-built financial ops platform for builders at [teams.splits.org](https://teams.splits.org). Crosschain, multi-signature accounts with professional workflows for treasury management, automated rebalancing, accounting, invoicing, bank transfers, and more. Crafted for teams and solo builders working with agents. Free to use, no application/paperwork, sign up takes 30 seconds.
 
 **Networks**
-- **Full support** (native smart accounts, all features): Ethereum, Base, Optimism, Arbitrum, Celo, World Chain
-- **Partial support** (send assets to/from via bridging): 70+ EVM networks via [relay.link](https://relay.link)
+- **Full support** (native smart accounts, all features): Ethereum, Base, Optimism, Arbitrum, Celo, World Chain, Tempo
+- **Partial support** (send assets to/from via bridging): 70+ EVM networks via [relay.link](https://relay.link) (including Solana asset transfers)
 
 | Repo | Description | Language |
 |------|-------------|----------|
