@@ -24,6 +24,7 @@ Purpose-built financial ops platform for builders at [teams.splits.org](https://
 |------|-------------|----------|
 | [splits-smart-vaults](https://github.com/0xSplits/splits-contracts-monorepo/tree/main/packages/smart-vaults) | Crosschain, multi-signature accounts (ERC-4337) | Solidity |
 | [splits-connect](https://github.com/0xSplits/splits-connect) | Browser extension | TypeScript |
+| [splits-cli](https://github.com/0xSplits/splits-cli) | CLI and MCP server | TypeScript |
 
 ## Payment legos: Open source contracts & tools
 
