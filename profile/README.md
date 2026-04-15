@@ -2,7 +2,7 @@
 
 Financial infrastructure for onchain builders.
 
-We build apps, contracts, and developer tools that make it easy for builders to manage treasuries, revenues, and expenses. Permissionless and instantly available worldwide.
+Splits offers apps, developer tools, and contracts that make it easy to process revenue, manage assets, and pay expenses. Instantly available worldwide.
 
 - Onchain banking: [teams.splits.org](https://teams.splits.org)
 - Onchain banking docs: [splits.notion.site](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
