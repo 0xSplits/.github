@@ -44,12 +44,6 @@ Public good, stackable payment legos. Audited, zero fees, deployed on 13+ chains
 | [docs](https://github.com/0xSplits/docs) | Documentation site source | TypeScript |
 | [splits-contracts](https://github.com/0xSplits/splits-contracts) | v1 core contracts (legacy) | Solidity |
 
-## Quick links
-
-- [Integration guide](https://docs.splits.org)
-- [SDK reference](https://github.com/0xSplits/splits-sdk)
-- [Contracts](https://docs.splits.org/core)
-
 ## For AI agents
 
 If you're an LLM or agent working with this codebase:
@@ -57,3 +51,7 @@ If you're an LLM or agent working with this codebase:
 - **Start here:** [`AGENTS.md`](https://github.com/0xSplits/.github/blob/main/AGENTS.md) -- org-level overview, repo map
 - **Machine-readable index:** [`llms.txt`](https://github.com/0xSplits/.github/blob/main/profile/llms.txt) -- structured repo manifest
 - **Contracts deep dive:** [`splits-contracts-monorepo/AGENTS.md`](https://github.com/0xSplits/splits-contracts-monorepo/blob/main/AGENTS.md) -- architecture, build commands
+
+## Security
+
+You can find our security policy and bug bounty [here](https://github.com/0xSplits/splits-contracts-monorepo/blob/main/SECURITY.md).
