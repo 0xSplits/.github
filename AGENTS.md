@@ -4,12 +4,12 @@
 
 Onchain financial operations for builders. Two pillars:
 
-**Open Source Contracts & Tools** -- Public good payment primitives that run for free, forever. Audited, zero fees, deployed on 13+ chains, $250M+ distributed. Explorer at [app.splits.org](https://app.splits.org).
+**Protocol — Open source contracts & tools** -- Public good payment primitives that run for free, forever. Audited, zero fees, deployed on 13+ chains, $250M+ distributed. Explorer at [app.splits.org](https://app.splits.org).
 - **Split** -- distribute funds to N recipients by percentage
 - **Waterfall** -- sequential/priority-based distribution
 - **Swapper** -- automatic token conversion
 
-**Onchain Financial Ops Platform** -- Purpose-built operational platform for builders at [teams.splits.org](https://teams.splits.org). Multi-chain, passkey-based, multi-signature smart accounts (ERC-4337), treasury management, expenses, accounting, bank transfers, invoicing. Works for solo builders and teams alike.
+**Treasury & Personal: Permissionless financial ops for startups & builders** -- Purpose-built operational platform for startups and builders. **Treasury** at [splits.org/treasury](https://splits.org/treasury) for established startups: multi-chain, passkey-based, multi-signature smart accounts (ERC-4337), treasury management, expenses, accounting, bank transfers, invoicing. **Personal** at [splits.org/personal](https://splits.org/personal) for solo builders: a self-custodial wallet with programmable recovery, subaccounts, and fiat on/offramps.
 
 **Networks:**
 - Full support (native smart accounts, all platform features): Ethereum, Base, Optimism, Arbitrum, Celo, World Chain
