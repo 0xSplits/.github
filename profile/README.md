@@ -6,7 +6,7 @@ Splits offers apps, developer tools, and contracts that make it easy to process 
 
 - Splits Treasury: [splits.org/treasury](https://splits.org/treasury)
 - Splits Personal: [splits.org/personal](https://splits.org/personal)
-- Splits docs: [splits.notion.site](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
+- Treasury & Personal docs: [splits.notion.site](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
 - Protocol explorer: [app.splits.org](https://app.splits.org)
 - Protocol docs: [docs.splits.org](https://docs.splits.org)
 - Changelog: [splits.org/changelog](https://splits.org/changelog/)
@@ -15,7 +15,7 @@ Splits offers apps, developer tools, and contracts that make it easy to process 
 
 ## Onchain banking: Permissionless financial ops for startups and builders
 
-A self-custodial platform with two flavors. **Treasury** at [splits.org/treasury](https://splits.org/treasury) for startups: crosschain, multi-signature accounts with professional workflows for treasury management, automated rebalancing, accounting, invoicing, and bank transfers. **Personal** at [splits.org/personal](https://splits.org/personal) for builders: a wallet purpose-built for builders, with programmable recovery, subaccounts, and fiat on/offramps. Built for startups and builders. Free to use, no application/paperwork, sign up takes 30 seconds.
+A self-custodial, globally available banking platform. **Treasury** at [splits.org/treasury](https://splits.org/treasury) for startups: crosschain, multi-signature accounts with professional workflows for treasury management, automated rebalancing, accounting, invoicing, and bank transfers. **Personal** at [splits.org/personal](https://splits.org/personal) for builders: a wallet purpose-built for builders, with programmable recovery, subaccounts, and fiat on/offramps. Built for startups and builders. Free to use, no application/paperwork, sign up takes 30 seconds.
 
 **Networks**
 - **Full support** (native smart accounts, all features): Ethereum, Base, Optimism, Arbitrum, Celo, World Chain, Tempo
