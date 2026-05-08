@@ -4,17 +4,18 @@ Financial infrastructure for onchain builders.
 
 Splits offers apps, developer tools, and contracts that make it easy to process revenue, manage assets, and pay expenses. Instantly available worldwide.
 
-- Onchain banking: [teams.splits.org](https://teams.splits.org)
-- Onchain banking docs: [splits.notion.site](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
-- Payment lego explorer: [app.splits.org](https://app.splits.org)
-- Payment lego docs: [docs.splits.org](https://docs.splits.org)
+- Splits Treasury: [splits.org/treasury](https://splits.org/treasury)
+- Splits Personal: [splits.org/personal](https://splits.org/personal)
+- Splits docs: [splits.notion.site](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
+- Protocol explorer: [app.splits.org](https://app.splits.org)
+- Protocol docs: [docs.splits.org](https://docs.splits.org)
 - Changelog: [splits.org/changelog](https://splits.org/changelog/)
 
 ---
 
-## Onchain banking: Self-custodial financial ops platform
+## Onchain banking: Permissionless financial ops for startups and builders
 
-Purpose-built financial ops platform for builders at [teams.splits.org](https://teams.splits.org). Crosschain, multi-signature accounts with professional workflows for treasury management, automated rebalancing, accounting, invoicing, bank transfers, and more. Crafted for teams and solo builders working with agents. Free to use, no application/paperwork, sign up takes 30 seconds.
+A self-custodial platform with two flavors. **Treasury** at [splits.org/treasury](https://splits.org/treasury) for startups: crosschain, multi-signature accounts with professional workflows for treasury management, automated rebalancing, accounting, invoicing, and bank transfers. **Personal** at [splits.org/personal](https://splits.org/personal) for builders: a wallet purpose-built for builders, with programmable recovery, subaccounts, and fiat on/offramps. Built for startups and builders. Free to use, no application/paperwork, sign up takes 30 seconds.
 
 **Networks**
 - **Full support** (native smart accounts, all features): Ethereum, Base, Optimism, Arbitrum, Celo, World Chain, Tempo
@@ -26,9 +27,9 @@ Purpose-built financial ops platform for builders at [teams.splits.org](https://
 | [splits-connect](https://github.com/0xSplits/splits-connect) | Browser extension | TypeScript |
 | [splits-cli](https://github.com/0xSplits/splits-cli) | CLI and MCP server | TypeScript |
 
-## Payment legos: Open source contracts & tools
+## Protocol: Open source payment contracts & tools
 
-Public good, stackable payment legos. Audited, zero fees, deployed on 13+ chains. $250M+ distributed. User friendly interface at [app.splits.org](https://app.splits.org) to create, edit, and manage payment legos. Plus SDK, subgraph, and docs for building on top.
+Public good, composable onchain payments protocol. Audited, zero fees, deployed on 13+ chains. $250M+ distributed. User friendly interface at [app.splits.org](https://app.splits.org) to create, edit, and manage onchain payment contracts. Plus SDK, subgraph, and docs for building on top.
 
 - **Split:** Distribute future income to multiple recipients by percentage
 - **Waterfall:** Sequential payments (e.g., pay A first, then B, and split the rest 60/40)

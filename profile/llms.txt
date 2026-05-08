@@ -3,14 +3,17 @@
 > Onchain financial infrastructure for builders. A full-stack financial operations platform -- built on open source payment contracts that run for free, forever.
 
 - Website: https://splits.org
-- Teams Platform: https://teams.splits.org
-- Docs: https://docs.splits.org
-- Contract Explorer: https://app.splits.org
+- Treasury (modern banking for startups): https://splits.org/treasury
+- Personal (a wallet purpose-built for builders): https://splits.org/personal
+- Treasury and Personal docs: https://docs.splits.org
+- Protocol explorer: https://app.splits.org
 - GitHub: https://github.com/0xSplits
 
-## Onchain Financial Ops Platform
+## Treasury & Personal: Permissionless financial ops for startups & builders
 
-Purpose-built operational platform for builders at teams.splits.org. Crosschain, multi-signature accounts, treasury management, expenses. Works for solo builders and teams alike.
+**Treasury** at splits.org/treasury: modern banking for established startups. Crosschain, multi-signature accounts with professional workflows for treasury management, automated rebalancing, accounting, invoicing, and bank transfers.
+
+**Personal** at splits.org/personal: a wallet purpose-built for solo builders. Self-custodial, with programmable recovery, subaccounts, and fiat on/offramps.
 
 ### Networks
 
@@ -30,7 +33,7 @@ Purpose-built operational platform for builders at teams.splits.org. Crosschain,
 - Purpose: Browser extension for Splits
 - Language: TypeScript
 
-## Open Source Contracts & Tools
+## Protocol — Open source contracts & tools
 
 Public good payment primitives. Audited, zero fees, deployed on 13+ chains, $250M+ distributed.
 
