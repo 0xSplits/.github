@@ -7,7 +7,7 @@ Splits offers apps, developer tools, and contracts that make it easy to process 
 - Splits Treasury: [splits.org/treasury](https://splits.org/treasury)
 - Splits Personal: [splits.org/personal](https://splits.org/personal)
 - Treasury & Personal docs: [splits.notion.site](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
-- Protocol explorer: [app.splits.org](https://app.splits.org)
+- Protocol explorer: [explorer.splits.org](https://explorer.splits.org)
 - Protocol docs: [docs.splits.org](https://docs.splits.org)
 - Changelog: [splits.org/changelog](https://splits.org/changelog/)
 
@@ -29,7 +29,7 @@ A self-custodial, globally available banking platform. **Treasury** at [splits.o
 
 ## Protocol: Open source payment contracts & tools
 
-Public good, composable onchain payments protocol. Audited, zero fees, deployed on 13+ chains. $250M+ distributed. User friendly interface at [app.splits.org](https://app.splits.org) to create, edit, and manage onchain payment contracts. Plus SDK, subgraph, and docs for building on top.
+Public good, composable onchain payments protocol. Audited, zero fees, deployed on 13+ chains. $250M+ distributed. User friendly interface at [explorer.splits.org](https://explorer.splits.org) to create, edit, and manage onchain payment contracts. Plus SDK, subgraph, and docs for building on top.
 
 - **Split:** Distribute future income to multiple recipients by percentage
 - **Waterfall:** Sequential payments (e.g., pay A first, then B, and split the rest 60/40)
