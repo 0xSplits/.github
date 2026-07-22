@@ -6,9 +6,9 @@ Splits offers apps, developer tools, and contracts that make it easy to process 
 
 - Splits Treasury: [splits.org/treasury](https://splits.org/treasury)
 - Splits Personal: [splits.org/personal](https://splits.org/personal)
-- Treasury & Personal docs: [splits.notion.site](https://splits.notion.site/Splits-Guidebook-177f7c3c8eff80438f21c2032fe5d653)
+- Treasury & Personal docs: [splits.org/docs](https://splits.org/docs)
 - Protocol explorer: [explorer.splits.org](https://explorer.splits.org)
-- Protocol docs: [docs.splits.org](https://docs.splits.org)
+- Protocol docs: [splits.org/protocol/docs](https://splits.org/protocol/docs)
 - Changelog: [splits.org/changelog](https://splits.org/changelog/)
 
 ---

@@ -26,7 +26,7 @@ Start with the repo that matches your task:
 | `splits-sdk` | Building JS/TS integrations, React UIs, or querying splits data |
 | `splits-waterfall` | Waterfall-specific contract work |
 | `splits-swapper` | Swapper-specific contract work |
-| `docs` | Documentation site at docs.splits.org |
+| `docs` | Documentation site at splits.org/protocol/docs |
 | `splits-connect` | Minimal browser extension for smart accounts (4337) |
 
 ## Common Dev Patterns
@@ -59,7 +59,7 @@ For contract-level details (architecture, build commands, gotchas, deployment):
 - [`splits-contracts-monorepo/CLAUDE.md`](https://github.com/0xSplits/splits-contracts-monorepo/blob/main/CLAUDE.md)
 
 For integration patterns and API docs:
-- [docs.splits.org](https://docs.splits.org)
+- [splits.org/protocol/docs](https://splits.org/protocol/docs)
 - [`splits-sdk` README](https://github.com/0xSplits/splits-sdk)
 
 Machine-readable org index:
