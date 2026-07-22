@@ -5,7 +5,7 @@
 - Website: https://splits.org
 - Treasury (modern banking for startups): https://splits.org/treasury
 - Personal (a wallet purpose-built for builders): https://splits.org/personal
-- Treasury and Personal docs: https://docs.splits.org
+- Treasury and Personal docs: https://splits.org/docs
 - Protocol explorer: https://app.splits.org
 - GitHub: https://github.com/0xSplits
 
@@ -73,9 +73,9 @@ Public good payment primitives. Audited, zero fees, deployed on 13+ chains, $250
 - Packages: @0xsplits/splits-sdk, @0xsplits/splits-sdk-react
 
 #### docs
-- Purpose: Documentation site (docs.splits.org)
+- Purpose: Documentation site (splits.org/protocol/docs)
 - Language: TypeScript
-- URL: https://docs.splits.org
+- URL: https://splits.org/protocol/docs
 
 ## Architecture Notes
 
