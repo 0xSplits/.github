@@ -24,6 +24,7 @@ A self-custodial, globally available banking platform. **Treasury** at [splits.o
 | Repo | Description | Language |
 |------|-------------|----------|
 | [splits-smart-vaults](https://github.com/0xSplits/splits-contracts-monorepo/tree/main/packages/smart-vaults) | Crosschain, multi-signature accounts (ERC-4337) | Solidity |
+| [splits-docs](https://github.com/0xSplits/splits-docs) | Documentation site source | TypeScript |
 | [splits-connect](https://github.com/0xSplits/splits-connect) | Browser extension | TypeScript |
 | [splits-cli](https://github.com/0xSplits/splits-cli) | CLI and MCP server | TypeScript |
 
@@ -42,7 +43,7 @@ Public good, composable onchain payments protocol. Audited, zero fees, deployed 
 | [splits-swapper](https://github.com/0xSplits/splits-swapper) | Swapper payment contracts | Solidity |
 | [splits-sdk](https://github.com/0xSplits/splits-sdk) | JS/TS SDK + React hooks | TypeScript |
 | [splits-lite](https://github.com/0xSplits/splits-lite) | Minimal webapp for Split contracts | TypeScript |
-| [docs](https://github.com/0xSplits/docs) | Documentation site source | TypeScript |
+| [protocol-docs](https://github.com/0xSplits/docs) | Documentation site source | TypeScript |
 | [splits-contracts](https://github.com/0xSplits/splits-contracts) | v1 core contracts (legacy) | Solidity |
 
 ## For AI agents
